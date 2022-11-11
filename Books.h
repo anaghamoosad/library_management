@@ -1,5 +1,5 @@
-#ifndef HEADER_H
-#define HEADER_H
+#pragma once
+
 
 //header files
 
@@ -33,5 +33,3 @@ public:
 
 };
 
-//code
-#endif 
