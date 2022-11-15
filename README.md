@@ -1,6 +1,15 @@
-# library_management
-A library management system using C++ 
+## **Library Management System**
 
-This project is to recreate the project I did when during my Bachelor's degree and at the same time review my C++ coding skills.
+A simple library management system using c++ (Recreating my B.tech class project as well as refreshing my C++ Knowledge).
 
-Work in Progress
+Topics explored as part of the projects:
+
+ - File system
+ - OOP concepts
+ - Header files
+
+![Library Management System](https://github.com/anaghamoosad/library_management/blob/main/proj.gif?raw=true)
+
+Note : The login details and password needs to be saved in a file 
+
+***Work in progress!***
